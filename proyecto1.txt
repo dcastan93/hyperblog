@@ -6,4 +6,4 @@ se presentan un mejor comentario
 ahora se edita en vim, pilas pues
 
 
-
+hoy se inicia un momento en el que podremos ver nueva features
