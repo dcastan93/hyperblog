@@ -3,3 +3,11 @@ body{
     text-align : center;
     font-family : "Arial"
 }
+
+#footer
+{
+	background: #777;
+	color: white;
+	text-align: center;
+}
+
