@@ -1,9 +1,0 @@
-esta es la primera parte de lo que se hace
-se presentan un mejor comentario
- 
- este parrafo ayuda a entender mejor todo
-
-ahora se edita en vim, pilas pues
-
-
-hoy se inicia un momento en el que podremos ver nueva features
